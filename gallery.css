@@ -5,3 +5,7 @@ body {
 .page-content {
     background-color: black;
 }
+
+span.bss-next, span.bss-prev {
+    display: none;
+}
